@@ -1,0 +1,3 @@
+Licence|1100|A|3|X
+Master|2100|B|3.5|Y
+Doctorat|3100|C|4|Z|1
